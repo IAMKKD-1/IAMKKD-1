@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there Krishna here 👋 
+#### 🌱 I’m currently learning Data Science
+#### 🔭 I’m currently working on Machine Learning Projects
 <!--
 **IAMKKD-1/IAMKKD-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
