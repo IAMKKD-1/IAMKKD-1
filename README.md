@@ -1,7 +1,7 @@
 ### Hi there Krishna here 👋 
 #### 🌱 Currently learning Data Science
 #### 🔭 Currently working on Machine Learning Projects
-#### 📫 How to reach me: LinkedIn[https://www.linkedin.com/in/krishnakantdubey/]
+#### 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/krishnakantdubey/)
 <!--
 **IAMKKD-1/IAMKKD-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
